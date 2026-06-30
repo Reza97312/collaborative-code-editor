@@ -11,7 +11,8 @@ import { ServerToClientEvents, ClientToServerEvents } from "./types";
 dotenv.config();
 
 const PORT = parseInt(process.env.PORT ?? "4000", 10);
-const CLIENT_URL = process.env.CLIENT_URL ?? "http://localhost:3000";
+const CLIENT_URL =
+  process.env.CLIENT_URL ?? "https://code-editor1234.netlify.app/";
 const NODE_ENV = process.env.NODE_ENV ?? "development";
 
 const app = express();
