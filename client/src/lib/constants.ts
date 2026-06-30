@@ -60,6 +60,7 @@ export const LANGUAGES: Language[] = [
 ];
 
 export const SOCKET_URL =
-  process.env.NEXT_PUBLIC_SERVER_URL ?? "http://localhost:4000";
+  process.env.NEXT_PUBLIC_SERVER_URL ??
+  "https://collaborative-code-editor-hs0z.onrender.com";
 export const MAX_USERNAME_LENGTH = 20;
 export const MAX_CODE_SIZE = 100_000;
