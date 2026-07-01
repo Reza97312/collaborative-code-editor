@@ -10,8 +10,7 @@ CodeSync is a fast, lightweight, and real-time collaborative code editor. It all
 
 This repository contains both the Frontend (Client) and Backend (Server) in a single monorepo structure.
 
- Live Demo:
-- **Frontend (Netlify):** [CodeSync on Netlify](https://code-editor1234.netlify.app)
+ **Live Demo:** [CodeSync on Netlify](https://code-editor1234.netlify.app)
 
 ##  Key Features
 
