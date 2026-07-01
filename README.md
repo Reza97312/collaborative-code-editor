@@ -13,7 +13,6 @@ This repository contains both the Frontend (Client) and Backend (Server) in a si
  Live Demo:
 - **Frontend (Netlify):** https://code-editor1234.netlify.app
 
-
 ##  Key Features
 
 - Real-Time Collaboration: Instant code synchronization across all clients in a room using WebSockets.
