@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   icons: {
-    icon: "/favicon.svg",
+    icon: "/client/public/editor.svg",
   },
   title: "CodeSync — Real-time Collaborative Editor",
   description:
