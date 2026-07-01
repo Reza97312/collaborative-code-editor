@@ -5,6 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  icons: {
+    icon: "/favicon.svg",
+  },
   title: "CodeSync — Real-time Collaborative Editor",
   description:
     "Code together, in real-time. Built with Next.js, Socket.io & Monaco.",
